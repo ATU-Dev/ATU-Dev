@@ -1,0 +1,11 @@
+- 👋 Hi, I am ATU
+- 👨‍💻 I’m interested in programming, pentesting and electronics
+- 💻 I do software-developement, game-developement and discord-bot developement
+- 🎮 I am currently developing a game, which I'll release on steam.
+- 📫 You can reach me on discord: ATU#2272
+- 🌐 My discord server: [Join](https://discord.link/atu)
+
+<!---
+ATU-Dev/ATU-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
