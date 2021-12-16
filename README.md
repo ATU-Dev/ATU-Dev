@@ -1,6 +1,6 @@
 - 👋 Hi, I am ATU
 - 👨‍💻 I’m interested in programming, pentesting and electronics
-- 💻 I do software-developement, game-developement and discord-bot developement
+- 💻 I do software-development, game-development and discord-bot development
 - 🎮 I am currently developing a game, which I'll release on steam.
 - 📫 You can reach me on discord: ATU#3081
 - 🌐 My discord server: [Join](https://discord.link/atu)
