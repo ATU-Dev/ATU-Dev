@@ -1,9 +1,9 @@
-- 👋 Hi, I am ATU
-- 👨‍💻 I’m interested in programming, pentesting and electronics
+- 👋 Hi, I am Aturan
+- 👨‍💻 I’m interested in programming, IT-security, pentesting and electronics
 - 💻 I do software-development, game-development and discord-bot development
-- 🎮 I am currently developing a game, which I'll release on steam.
-- 📫 You can reach me on discord: ATU#3081
-- 🌐 My discord server: [Join](https://discord.link/atu)
+- 🎮 I also develop games, which I'll soon release on steam & google play store
+- 📫 You can reach me on discord: aturan
+- 🌐 My discord server: [Join](https://dsc.gg/atu)
 
 <!---
 ATU-Dev/ATU-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
